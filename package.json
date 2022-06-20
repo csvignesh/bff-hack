@@ -1,0 +1,22 @@
+{
+  "name": "bff-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csvignesh/bff-hack.git"
+  },
+  "author": "vics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csvignesh/bff-hack/issues"
+  },
+  "homepage": "https://github.com/csvignesh/bff-hack#readme"
+}
