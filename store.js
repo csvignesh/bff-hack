@@ -3,7 +3,7 @@ const { get } = require("express/lib/response");
 const store = {};
 
 module.exports = {
-    update(id, { name = "missing", quantity = 0 } = {}) {
+    update(id, { name, quantity = 0 } = {}) {
         if (!id) return;
 
         const timestamp = Date.now();
